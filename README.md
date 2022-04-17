@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Kathuria</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" align="right" width="400" height="400"></img><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img src="giphy.gif" align="right" width="400" ></img><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **AI/ML**
 
