@@ -5,18 +5,14 @@
 - 😎 Currently Building Some Seriously Cool Stuff!
 - 🤝 I’m looking to collaborate on **Full-Stack Web development projects and AI/ML related technologies.**
 - 📫 How to reach me **saksham.kathuria0211@gmail.com** 
-<br/>
-<br/>
+#
 ```javascript
 let life: boolean = true;
 
 while (life) {
     alert("⚡Keep Learning till you stay Alive!!");
 }
- ```
-
-<br/>
-
+```
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,5 +56,8 @@ while (life) {
     <br/>
     </a>
 </p>
-[![Saksham's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saksh-aam&theme=github-compact&area=true)](https://github.com/saksh-aam/)
-
+<p>
+    <a href="https://github.com/saksh-aam"><img alt="Saksham's github contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saksh-aam&theme=github-compact&area=true"/></a>
+    <br/>
+    </a>
+</p>
