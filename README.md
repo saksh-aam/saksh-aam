@@ -14,6 +14,7 @@ while (life) {
     alert("⚡Keep Learning till you stay Alive!!");
 }
  ```
+
 <br/>
 
 # 💻 Tech Stack:
